@@ -1,0 +1,6 @@
+//ID---NAME
+1	Logs
+2	Copper Ore
+3	Tin Ore
+4	Bronze Bar
+5	Bronze Platebody

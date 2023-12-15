@@ -1,0 +1,7 @@
+//ID---Name---interactable---Description
+1	Tree	true	A good looking tree
+2	Copper	true	Some copper ore
+3	Tin	true	Some tin ore
+4	Furnace	true	A furnace
+5	Stone	false	A stone
+6	Anvil	true	An anvil
